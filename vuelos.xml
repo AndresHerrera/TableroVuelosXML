@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aeropuerto SYSTEM "aeropuerto.dtd">
+<aeropuerto>
+   <nombre>CLO</nombre>
+   <vuelos>
+      <vuelo codigo="CM806" estado="R">
+         <diario />
+         <origen>Cali</origen>
+         <destino>Bogota</destino>
+         <horasalida>6:30</horasalida>
+         <horallegada>7:10</horallegada>
+      </vuelo>
+      <vuelo codigo="AV3483" estado="C">
+         <origen>Cali</origen>
+         <destino>Barranquilla</destino>
+         <horasalida>10:15</horasalida>
+         <horallegada>11:15</horallegada>
+      </vuelo>
+	  <vuelo codigo="AV9453" estado="A">
+         <origen>Cali</origen>
+         <destino>Miami</destino>
+         <horasalida>5:45</horasalida>
+         <horallegada>10:55</horallegada>
+      </vuelo>
+   </vuelos>
+   <fecha>17/02/2018</fecha>
+</aeropuerto>
